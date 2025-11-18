@@ -1,3 +1,5 @@
+# Copyright Hewlett Packard Enterprise Development LP.
+
 # Start from official Chapel image
 FROM chapel/chapel:2.6.0
 
